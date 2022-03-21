@@ -1,4 +1,4 @@
-# *stats220*
+# stats220
 **This is the link to my stats220 repository** https://dmlcl.github.io/stats220/
 
 ## *About my purpose of creating this file*
