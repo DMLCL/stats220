@@ -1,5 +1,5 @@
 # *stats220*
-**This is the link to my stats220 repository** https://github.com/Wzhu382/stats220
+**This is the link to my stats220 repository** https://dmlcl.github.io/stats220/
 ## *About my purpose of creating this file*
 * The first, of course, is because this is an assignment for my stats220, and it accounts for 4% of the total score! ! !
 * Second, I like orange cats very much, especially I have no resistance to the chubby and fluffy creatures. It is very interesting to find that orange cats can always grow large.
