@@ -1,4 +1,4 @@
-# *My code*
+# My code
 
 * Description: It took me a while to figure out how to solve the problem of computers not being compatible with magic packs. I am still in the learning stage of R, and I did not make too many innovations. I just tried to combine some sentences to make the whole look more concise. I think the image editing feature of R is actually interesting and will be better next time.*
 
