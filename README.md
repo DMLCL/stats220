@@ -6,4 +6,4 @@
 * When writing the code I tried to combine separate functions as much as possible to make the program look cleaner. Didn't use any more functions, but will try next time.
 
 
-![](https://www.google.com.hk/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fstatistics&psig=AOvVaw2R4mq8uaMYOhwXBEq4i8Jf&ust=1647932620321000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCv-cjR1vYCFQAAAAAdAAAAABAE)
+![](https://www.google.com.hk/urlsa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fstatistics&psig=AOvVaw2R4mq8uaMYOhwXBEq4i8Jf&ust=1647932620321000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCv-cjR1vYCFQAAAAAdAAAAABAE)
